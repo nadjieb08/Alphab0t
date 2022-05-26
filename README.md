@@ -39,13 +39,13 @@ npm start
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/nadjieb08/Alphab0t/blob/master/session.json#L1)
+[`Click Here`](https://github.com/nadjieb08/Alphab0t/blob/v17/session.json)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/nadjieb08/Alphab0t/blob/v17/settings.json#L1)
-- Owner name [Here](https://github.com/nadjieb08/Alphab0t/blob/v17/settings.json#L1)
-- Botname [Here](https://github.com/nadjieb08/Alphab0t/blob/v17/settings.json#L1)
+- Owner number [Here](https://github.com/nadjieb08/Alphab0t/blob/v17/settings.js)
+- Owner name [Here](https://github.com/nadjieb08/Alphab0t/blob/v17/settings.js)
+- Botname [Here](https://github.com/nadjieb08/Alphab0t/blob/v17/settings.js)
 
 ## `CHANGE DYNO`
 
