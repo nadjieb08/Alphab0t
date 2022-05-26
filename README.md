@@ -35,7 +35,7 @@ npm i -g npm@8.9.0
 npm install
 rm -rf session.json
 npm start
-``
+```
 
 ## `CHANGE SESSION`
 
