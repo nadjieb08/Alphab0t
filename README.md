@@ -16,7 +16,7 @@
 
 ## `ADD BUILDPACK`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nadjieb08/Alphab0t/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nadjieb08/Alphab0t/) < bagi yang ga bisa login ke github
 ```
 > heroku/nodejs
 > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
