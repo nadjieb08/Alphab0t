@@ -22,16 +22,30 @@
 > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 > https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
+## `FOR TERMUX USER`
+```
+pkg update && pkg upgrade
+pkg install nodejs ffmpeg libwebp nano mc bash git imagemagic
+termux-setup-storage
+cd /sdcard
+cp -r Alphabot /$HOME
+cd 
+Alphabot 
+npm i -g npm@8.9.0
+npm install
+rm -rf session.json
+npm start
+``
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/zeeone-ofc/Alphab0t/blob/master/session.json#L1)
+[`Click Here`](https://github.com/nadjieb08/Alphab0t/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/zeeone-ofc/Alphab0t/blob/v15/settings.json#L1)
-- Owner name [Here](https://github.com/zeeone-ofc/Alphab0t/blob/v15/settings.json#L1)
-- Botname [Here](https://github.com/zeeone-ofc/Alphab0t/blob/v15/settings.json#L1)
+- Owner number [Here](https://github.com/nadjieb08/Alphab0t/blob/v17/settings.json#L1)
+- Owner name [Here](https://github.com/nadjieb08/Alphab0t/blob/v17/settings.json#L1)
+- Botname [Here](https://github.com/nadjieb08/Alphab0t/blob/v17/settings.json#L1)
 
 ## `CHANGE DYNO`
 
@@ -56,15 +70,7 @@ Off in web nya
 
 ## ```COFFEE```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
-
-## ```GROUP SUPPORT```
-
-- [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
-- [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
+- [`SAWERIA`](https://saweria.co/nadjiebahmad)
 
 ## `THANKS TO`
 
